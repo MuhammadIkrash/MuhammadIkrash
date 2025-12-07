@@ -1,4 +1,4 @@
-<img src="https://github.com/mhardik003/mhardik003/blob/main/gifs/mario.gif?raw=true" alt"gif" >
+<img src="https://github.com/mhardik003/mhardik003/blob/main/gifs/mario.gif?raw=true" alt="gif">
 <h1 align="center">Hi 👋, I'm MuhammadIkrash</h1>
 <h3 align="center">A passionate Full Stack developer & Figma Desginer from Pakistan</h3>
 
