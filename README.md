@@ -1,24 +1,12 @@
-## Hi there 👋
-
-<!--
-**MuhammadIkrash/MuhammadIkrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://github.com/mhardik003/mhardik003/blob/main/gifs/mario.gif?raw=true" alt"gif" >
 <h1 align="center">Hi 👋, I'm MuhammadIkrash</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack developer & Figma Desginer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Web Development & Designing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadIkrash](https://github.com/MuhammadIkrash)
+
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **mikrash62@gmail.com**
 
@@ -26,14 +14,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mohammad ikrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohammad ikrash" height="30" width="40" /></a>
-<a href="https://twitter.com/muhammad ikrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad ikrash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad ikrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ikrash" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad ikrash inayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad ikrash inayat" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammad ikrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad ikrash" height="30" width="40" /></a>
-<a href="https://www.behance.net/muhammad ikrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="muhammad ikrash" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muhammad ikrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad ikrash" height="30" width="40" /></a>
-<a href="https://discord.gg/muhammad ikrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="muhammad ikrash" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/ikrashmoha10623?t=blkslzqqa27eggt62wbgug&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ikrashmoha10623?t=blkslzqqa27eggt62wbgug&s=09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-ikrash-9767b8394/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-ikrash-9767b8394/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1d3ykenpm6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1d3ykenpm6/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ikrash._.edtix?igsh=b3c1mmfzymhpy2pw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ikrash._.edtix?igsh=b3c1mmfzymhpy2pw" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/mohammadikrash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mohammadikrash1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,5 +29,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadikrash&show_icons=true&locale=en" alt="muhammadikrash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadikrash&" alt="muhammadikrash" /></p>
-
--->
